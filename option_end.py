@@ -40,8 +40,8 @@ tickers = [
     {"name": "FINNIFTY","segment": "NFO-OPT"},
     {"name": "BANKNIFTY","segment": "NFO-OPT"},
     {"name": "SENSEX","segment": "BFO-OPT"},
-    {"name": "BANKEX","segment": "BFO-OPT"},
-    {"name": "CRUDEOIL","segment": "MCX-OPT"},
+    {"name": "BANKEX","segment": "BFO-OPT"}
+    
 
 ]
 
